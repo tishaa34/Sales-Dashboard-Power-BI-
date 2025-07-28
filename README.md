@@ -10,7 +10,7 @@ This repository contains a comprehensive Power BI dashboard project that visuali
 |------|-------------|
 | `Sales Dashboard.pbix` | Power BI file with all visuals |
 | `MarketReportData.xlsx` | Source dataset used in the dashboard |
-| `MarketReportKPIs.docx` | Document listing all KPIs/questions visualized |
+
 
 ---
 
